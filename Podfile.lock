@@ -1,0 +1,15 @@
+PODS:
+  - HydraAsync (1.2.1)
+  - Kingfisher (4.6.4)
+
+DEPENDENCIES:
+  - HydraAsync (~> 1.2.1)
+  - Kingfisher (~> 4.6.3)
+
+SPEC CHECKSUMS:
+  HydraAsync: 8f2ab62d57e140b4ca587ae0f66e1eb04e8e6965
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+
+PODFILE CHECKSUM: 785671a5d1474f67b1c824c3b15e3d726ba303b8
+
+COCOAPODS: 1.4.0
